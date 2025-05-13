@@ -1,6 +1,6 @@
 # Wordle-Like Game in C
 
-This is a simple console-based game inspired by the popular Wordle game named **Termo**, developed in C. The game allows one or two players to play and try to guess a secret word within six attempts.
+This is a simple console-based game inspired by the Wordle game named **Termo**, developed in C. The game allows one or two players to play and try to guess a secret word within six attempts.
 
 ![Title screen](https://github.com/PHPacheco/GuessTheWord/blob/original-version/Players.png)
 
@@ -16,7 +16,9 @@ This is a simple console-based game inspired by the popular Wordle game named **
 ![Rules](https://github.com/PHPacheco/GuessTheWord/blob/original-version/rules.png)
 
 ## About This Project
-This is my very first project! I created this game after about four months of learning programming. This repository is a demonstration of how I started my programming journey, and it marks the first step I took in bringing an idea to life with code. I hope it serves as a way to reflect on my progress and inspire others who are just starting out.
+This is my very first project! I created this game after about four months of learning programming. The ideia is to show my first steps. I hope it serves as a way to reflect on my progress and create a perspective of how much I have evolved.
+
+This program was created as an assignment for an introduction to programming course when I was studying electrical engineering. It was created in early 2022, shortly after Wordle was released.
 
 ## License
 
