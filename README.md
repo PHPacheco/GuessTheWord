@@ -9,7 +9,7 @@ This is a simple console-based game inspired by the Wordle game named **Termo**,
   - Players have six attempts to guess a secret word.
   - After each guess, the game provides feedback on which letters are correct and in the correct position.
   - The game ends when a player guesses the word or runs out of attempts.
-- **Multiplayer Support**: Play with one or two players.
+  - **Multiplayer Support**: Play with one or two players.
   
 ## How to Play
 
